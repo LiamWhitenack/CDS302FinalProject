@@ -15,6 +15,8 @@ It is likely that a great amount of NBA data could be made available with a litt
 
 An ER diagram can be made to show the qualities of some of these tables:  
 
+![ER_NBA](https://user-images.githubusercontent.com/78373945/143905829-7b7adbfa-df0a-42b7-957f-2fe9b57e4403.png)
+
 
 ## Converting to SQL
 
