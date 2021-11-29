@@ -17,6 +17,8 @@ An ER diagram can be made to show the qualities of some of these tables:
 
 ![ER_NBA](https://user-images.githubusercontent.com/78373945/143905829-7b7adbfa-df0a-42b7-957f-2fe9b57e4403.png)
 
+All of the attributes of these tables are omitted because of how many different attributes would have to be included. Each one of the above entities and relationships are created in python, where they are then uploaded to SQL.
+
 
 ## Converting to SQL
 
