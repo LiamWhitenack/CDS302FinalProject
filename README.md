@@ -9,7 +9,7 @@ SQL is a free online data browser that allows a user to make new observations on
 
 ## Retrieving NBA Data
 
-It is likely that a great amount of NBA data could be made available with a little bit of web scraping, but this data could be easily accessed online at a site called advancedsportsanalytics.com/nba-raw-data. This site allows a use to download, for free, a 52 columns of NBA data during a set amount of time. 
+It is likely that a great amount of NBA data could be made available with a little bit of web scraping, but this data could be easily accessed online at a site called advancedsportsanalytics.com/nba-raw-data. This site allows a use to download, for free, 52 columns of data from any time period starting at the beginning of the 2020 season and ending at the current date. 
 
 ## Drawing a Diagram of the Data
 
