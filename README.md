@@ -15,7 +15,7 @@ It is likely that a great amount of NBA data could be made available with a litt
 
 An ER diagram can be made to show the qualities of some of these tables:  
 
-![ER_NBA](https://user-images.githubusercontent.com/78373945/145064148-20447345-04e2-4389-bcc0-1477407125a4.png)
+![ER_NBA](https://user-images.githubusercontent.com/78373945/145067719-c35b2983-d7d6-49d3-9661-7e244996e20d.png)
 
 All of the attributes of these tables are omitted because of how many different attributes would have to be included. Each one of the above entities and relationships are created in python, where they are then uploaded to SQL.  
 Once this process is finished, making a relational schema is relatively simple:  
